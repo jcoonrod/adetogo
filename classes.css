@@ -18,7 +18,9 @@ section, .pure-g {display:flex; flex-wrap:wrap;
   align-items:left; padding-bottom:2rem; 
   min-width: 200px;}
 fieldset {display:flex; flex-direction: column; width:auto; padding:1rem; border-radius:1rem;}
-img {width:100%; height:auto;}
+img {height:auto;}
+article>img{width:100%;}
+
 
 /* the menu system */
 

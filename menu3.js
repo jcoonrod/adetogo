@@ -1,5 +1,5 @@
 const navbar=`
-<h1><img src="logo.webp" alt="logo" width="50px">Amis des Etrangers au Togo 
+<h1><img src="logo.webp" alt="logo" width="80px"> Amis des Etrangers au Togo 
 <a href=https://facebook.com/Amis-Des-Etrangers-Au-Togo-1410382492536147; target=_blank>
 <img src=facebook.png width=20px height=auto></a> 
 <a href=https://x.com/adet_ong target=_blank><img src=twitter.png width=20px height=auto></a>

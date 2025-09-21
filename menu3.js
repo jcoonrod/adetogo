@@ -16,6 +16,7 @@ const navbar=`
     </li>
     <li><a href=/que.html>Que faisons-nous ?</a>
     <ul>
+    <li><a href=/agriculture.html>Agriculture</a></li>
     <li><a href=/energie.html>Energie</a></li>
     <li><a href=/environnement.html>Environnement</a></li>
     <li><a href=/plan.html>stratégie</a></li>
